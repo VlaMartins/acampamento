@@ -7,7 +7,7 @@ body {
 #banner {
 	width:70%;
 	margin: auto;
-  	display: flex; /* Centraliza horizontalmente */
+  	display: block; /* Centraliza horizontalmente */
 }
 
 .principal{
