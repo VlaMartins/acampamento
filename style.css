@@ -6,8 +6,8 @@ body {
 
 #banner {
 	width:70%;
-	display: flex;
-  	justify-content: center; /* Centraliza horizontalmente */
+	margin: auto;
+  	display: flex; /* Centraliza horizontalmente */
 }
 
 .principal{
